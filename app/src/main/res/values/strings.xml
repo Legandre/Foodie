@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="enter_mobile_number"> Enter Mobile Number</string>
+    <string name="enter_password"> Enter Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">New User? Sign Up</string>
+    <string name="EnterUsername"> Username (minimum 3 characters)</string>
+    <string name="email_address"> Email Address</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="get_otp">get otp</string>
+    <string name="enter_otp"> Enter OTP</string>
+    <string name="submit">submit</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favourite_restaurant">Favourite Restaurant</string>
+    <string name="order_history">Order History</string>
+    <string name="faqs">FAQS</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="name_here">Name here</string>
+    <string name="open">Open drawer</string>
+    <string name="close">Closed drawer</string>
+    <string name="preference_file_name">Restaurant file</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+</resources>
